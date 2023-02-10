@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\obj\Debug\Welcome_Screen.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\obj\Debug\Welcome_Screen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\obj\Debug\Welcome_Screen.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\bin\Debug\Welcome_Screen.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\bin\Debug\Welcome_Screen.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\bin\Debug\Welcome_Screen.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\obj\Debug\Welcome_Screen.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\obj\Debug\Welcome_Screen.pdb
