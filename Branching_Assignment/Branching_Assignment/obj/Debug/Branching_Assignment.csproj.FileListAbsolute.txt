@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Branching_Assignment\Branching_Assignment\bin\Debug\Branching_Assignment.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Branching_Assignment\Branching_Assignment\bin\Debug\Branching_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Branching_Assignment\Branching_Assignment\bin\Debug\Branching_Assignment.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Branching_Assignment\Branching_Assignment\obj\Debug\Branching_Assignment.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Branching_Assignment\Branching_Assignment\obj\Debug\Branching_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Branching_Assignment\Branching_Assignment\obj\Debug\Branching_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Branching_Assignment\Branching_Assignment\obj\Debug\Branching_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Branching_Assignment\Branching_Assignment\obj\Debug\Branching_Assignment.pdb
