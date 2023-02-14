@@ -20,7 +20,7 @@ namespace Boolean_Logic_Assignment
             int speedingTickets = Convert.ToInt32(Console.ReadLine()); // Saving user input and converting it to an integer data type
 
             Console.WriteLine("\nQualified?"); // Displaying question string to the user on the console
-            bool qualifies = (age > 15 && dui == false && speedingTickets < 3); // Using boolean logic to determine user qualifications based on their input
+            bool qualifies = (age > 15 && dui == false && speedingTickets <= 3); // Using boolean logic to determine user qualifications based on their input
             Console.WriteLine(qualifies); // Displaying answer string to the user on the console
 
             Console.ReadLine(); // Pauses the application until user input.
