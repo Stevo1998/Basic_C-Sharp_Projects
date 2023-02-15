@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Console_App_WhileLoop_ Assignment\Console_App_WhileLoop_ Assignment\bin\Debug\Console_App_WhileLoop_ Assignment.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Console_App_WhileLoop_ Assignment\Console_App_WhileLoop_ Assignment\bin\Debug\Console_App_WhileLoop_ Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Console_App_WhileLoop_ Assignment\Console_App_WhileLoop_ Assignment\bin\Debug\Console_App_WhileLoop_ Assignment.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Console_App_WhileLoop_ Assignment\Console_App_WhileLoop_ Assignment\obj\Debug\Console_App_WhileLoop_ Assignment.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Console_App_WhileLoop_ Assignment\Console_App_WhileLoop_ Assignment\obj\Debug\Console_App_WhileLoop_ Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Console_App_WhileLoop_ Assignment\Console_App_WhileLoop_ Assignment\obj\Debug\Console_App_WhileLoop_ Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Console_App_WhileLoop_ Assignment\Console_App_WhileLoop_ Assignment\obj\Debug\Console_App_WhileLoop_ Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Console_App_WhileLoop_ Assignment\Console_App_WhileLoop_ Assignment\obj\Debug\Console_App_WhileLoop_ Assignment.pdb
