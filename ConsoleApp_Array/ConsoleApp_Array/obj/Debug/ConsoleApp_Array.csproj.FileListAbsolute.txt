@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\ConsoleApp_Array\ConsoleApp_Array\bin\Debug\ConsoleApp_Array.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\ConsoleApp_Array\ConsoleApp_Array\bin\Debug\ConsoleApp_Array.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\ConsoleApp_Array\ConsoleApp_Array\bin\Debug\ConsoleApp_Array.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\ConsoleApp_Array\ConsoleApp_Array\obj\Debug\ConsoleApp_Array.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\ConsoleApp_Array\ConsoleApp_Array\obj\Debug\ConsoleApp_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\ConsoleApp_Array\ConsoleApp_Array\obj\Debug\ConsoleApp_Array.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\ConsoleApp_Array\ConsoleApp_Array\obj\Debug\ConsoleApp_Array.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\ConsoleApp_Array\ConsoleApp_Array\obj\Debug\ConsoleApp_Array.pdb
