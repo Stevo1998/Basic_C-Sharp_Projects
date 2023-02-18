@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Strings_AND_Integers\Strings_AND_Integers\bin\Debug\Strings_AND_Integers.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Strings_AND_Integers\Strings_AND_Integers\bin\Debug\Strings_AND_Integers.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Strings_AND_Integers\Strings_AND_Integers\bin\Debug\Strings_AND_Integers.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Strings_AND_Integers\Strings_AND_Integers\obj\Debug\Strings_AND_Integers.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Strings_AND_Integers\Strings_AND_Integers\obj\Debug\Strings_AND_Integers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Strings_AND_Integers\Strings_AND_Integers\obj\Debug\Strings_AND_Integers.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Strings_AND_Integers\Strings_AND_Integers\obj\Debug\Strings_AND_Integers.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Strings_AND_Integers\Strings_AND_Integers\obj\Debug\Strings_AND_Integers.pdb
