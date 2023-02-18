@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Six-Part_ConsoleApp\Six-Part_ConsoleApp\bin\Debug\Six-Part_ConsoleApp.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Six-Part_ConsoleApp\Six-Part_ConsoleApp\bin\Debug\Six-Part_ConsoleApp.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Six-Part_ConsoleApp\Six-Part_ConsoleApp\bin\Debug\Six-Part_ConsoleApp.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Six-Part_ConsoleApp\Six-Part_ConsoleApp\obj\Debug\Six-Part_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Six-Part_ConsoleApp\Six-Part_ConsoleApp\obj\Debug\Six-Part_ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Six-Part_ConsoleApp\Six-Part_ConsoleApp\obj\Debug\Six-Part_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Six-Part_ConsoleApp\Six-Part_ConsoleApp\obj\Debug\Six-Part_ConsoleApp.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Six-Part_ConsoleApp\Six-Part_ConsoleApp\obj\Debug\Six-Part_ConsoleApp.pdb
