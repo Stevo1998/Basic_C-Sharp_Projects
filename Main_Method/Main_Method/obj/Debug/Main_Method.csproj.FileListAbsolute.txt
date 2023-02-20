@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Main_Method\Main_Method\bin\Debug\Main_Method.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Main_Method\Main_Method\bin\Debug\Main_Method.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Main_Method\Main_Method\bin\Debug\Main_Method.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Main_Method\Main_Method\obj\Debug\Main_Method.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Main_Method\Main_Method\obj\Debug\Main_Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Main_Method\Main_Method\obj\Debug\Main_Method.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Main_Method\Main_Method\obj\Debug\Main_Method.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\Main_Method\Main_Method\obj\Debug\Main_Method.pdb
