@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\Abstract_Class_Assignment.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\Abstract_Class_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\Abstract_Class_Assignment.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\Abstract_Class_Assignment.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\Abstract_Class_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\Abstract_Class_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\Abstract_Class_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\Abstract_Class_Assignment.pdb
