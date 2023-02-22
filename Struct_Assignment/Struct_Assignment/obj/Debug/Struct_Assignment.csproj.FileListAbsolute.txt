@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Struct_Assignment\Struct_Assignment\bin\Debug\Struct_Assignment.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Struct_Assignment\Struct_Assignment\bin\Debug\Struct_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Struct_Assignment\Struct_Assignment\bin\Debug\Struct_Assignment.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.pdb
