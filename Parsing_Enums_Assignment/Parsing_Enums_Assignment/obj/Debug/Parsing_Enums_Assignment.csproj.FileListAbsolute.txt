@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\Parsing_Enums_Assignment.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\Parsing_Enums_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\Parsing_Enums_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Parsing_Enums_Assignment\Parsing_Enums_Assignment\bin\Debug\Parsing_Enums_Assignment.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Parsing_Enums_Assignment\Parsing_Enums_Assignment\bin\Debug\Parsing_Enums_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Parsing_Enums_Assignment\Parsing_Enums_Assignment\bin\Debug\Parsing_Enums_Assignment.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\Parsing_Enums_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Parsing_Enums_Assignment\Parsing_Enums_Assignment\obj\Debug\Parsing_Enums_Assignment.pdb
