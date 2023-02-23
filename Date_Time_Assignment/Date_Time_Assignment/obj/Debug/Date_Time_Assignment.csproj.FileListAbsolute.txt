@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Date_Time_Assignment\Date_Time_Assignment\bin\Debug\Date_Time_Assignment.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Date_Time_Assignment\Date_Time_Assignment\bin\Debug\Date_Time_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Date_Time_Assignment\Date_Time_Assignment\bin\Debug\Date_Time_Assignment.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Date_Time_Assignment\Date_Time_Assignment\obj\Debug\Date_Time_Assignment.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Date_Time_Assignment\Date_Time_Assignment\obj\Debug\Date_Time_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Date_Time_Assignment\Date_Time_Assignment\obj\Debug\Date_Time_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Date_Time_Assignment\Date_Time_Assignment\obj\Debug\Date_Time_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Date_Time_Assignment\Date_Time_Assignment\obj\Debug\Date_Time_Assignment.pdb
