@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Constructor_Assignment\Constructor_Assignment\bin\Debug\Constructor_Assignment.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Constructor_Assignment\Constructor_Assignment\bin\Debug\Constructor_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Constructor_Assignment\Constructor_Assignment\bin\Debug\Constructor_Assignment.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Constructor_Assignment\Constructor_Assignment\obj\Debug\Constructor_Assignment.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Constructor_Assignment\Constructor_Assignment\obj\Debug\Constructor_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Constructor_Assignment\Constructor_Assignment\obj\Debug\Constructor_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Constructor_Assignment\Constructor_Assignment\obj\Debug\Constructor_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Constructor_Assignment\Constructor_Assignment\obj\Debug\Constructor_Assignment.pdb
