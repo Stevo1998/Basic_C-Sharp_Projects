@@ -1,0 +1,8 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Try-Catch_Assignment\Try-Catch_Assignment\bin\Debug\Try-Catch_Assignment.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Try-Catch_Assignment\Try-Catch_Assignment\bin\Debug\Try-Catch_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Try-Catch_Assignment\Try-Catch_Assignment\bin\Debug\Try-Catch_Assignment.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Try-Catch_Assignment\Try-Catch_Assignment\obj\Debug\Try-Catch_Assignment.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Try-Catch_Assignment\Try-Catch_Assignment\obj\Debug\Try-Catch_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Try-Catch_Assignment\Try-Catch_Assignment\obj\Debug\Try-Catch_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Try-Catch_Assignment\Try-Catch_Assignment\obj\Debug\Try-Catch_Assignment.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Submission_Assignments\Try-Catch_Assignment\Try-Catch_Assignment\obj\Debug\Try-Catch_Assignment.pdb
