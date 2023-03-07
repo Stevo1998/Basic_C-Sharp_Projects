@@ -1,0 +1,12 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    var timeNow = DateTime.Now;
+    var h2Element = "Current Time:";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@h2Element</h1>
+    <h2>@timeNow</h2>
+</div>
