@@ -1,0 +1,6 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\Casino\bin\Debug\Casino.dll
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\Casino\bin\Debug\Casino.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\Casino\obj\Debug\Casino.dll
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\Casino\obj\Debug\Casino.pdb

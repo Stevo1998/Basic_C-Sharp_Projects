@@ -1,0 +1,11 @@
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Tutorials\TwentyOne\TwentyOne\bin\Debug\Casino.dll
