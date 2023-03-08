@@ -13,26 +13,6 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {            
-            //// Notes on using DateTime and TimeSpan
-            //DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45); // A value type struct (non-nullable) 
-            //DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
-
-            //TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth; // Gets the difference in days from one DateTime to another
-
-            //// To get text from a file
-            //string text = File.ReadAllText(@"C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Logs\log.txt");
-
-
-            //// To write text into a file
-            //string text = "Here is some text.";
-            //File.WriteAllText(@"C:\Users\Steven Salazar\OneDrive\Escritorio\Basic_C#_Programs\Logs\log.txt", text); // The @ character allows the compiler to read the string as is
-            
-
-            //// using Var
-            //var newPlayer = new Player("Jesse"); // Var is used when the data type is clearly shown
-
-
-
             // Actual game program starts here
             const string casinoName = "Grand Hotel and Casino"; // Declaring a constant
 
