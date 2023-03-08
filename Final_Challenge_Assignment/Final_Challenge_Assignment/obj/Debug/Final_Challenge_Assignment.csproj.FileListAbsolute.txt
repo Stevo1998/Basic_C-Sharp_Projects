@@ -1,0 +1,15 @@
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\bin\Debug\Final_Challenge_Assignment.exe.config
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\bin\Debug\Final_Challenge_Assignment.exe
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\bin\Debug\Final_Challenge_Assignment.pdb
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\bin\Debug\EntityFramework.dll
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\bin\Debug\EntityFramework.xml
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\obj\Debug\Final_Challenge_Assignment.csproj.AssemblyReference.cache
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\obj\Debug\Final_Challenge_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\obj\Debug\Final_Challenge_Assignment.csproj.CopyComplete
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\obj\Debug\Final_Challenge_Assignment.exe
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\obj\Debug\Final_Challenge_Assignment.pdb
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\obj\Debug\Final_Challenge_Assignment.Migrations.InitialCreate.resources
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\obj\Debug\Final_Challenge_Assignment.csproj.GenerateResource.cache
+C:\Users\Steven Salazar\source\repos\Final_Challenge_Assignment\Final_Challenge_Assignment\obj\Debug\Final_Challenge_Assignment.Migrations.DeleteListColumn.resources
